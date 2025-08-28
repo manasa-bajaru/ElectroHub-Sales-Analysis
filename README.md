@@ -45,7 +45,7 @@ Order-level Insights: Detailed table showing sales, profit, discount, and units 
 
 # 📑 Dataset Used
 
-(Add dataset file link here if you want to share raw data)
+![file link](https://github.com/manasa-bajaru/ElectroHub-Sales-Analysis/blob/main/Used%20Data%20Set.xlsx)
 
 # ❓ Questions & Answers
 
