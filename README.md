@@ -8,7 +8,9 @@ This repository contains a fully interactive Power BI dashboard that provides in
 # 🎯 Objective
 
 A Power BI dashboard project analyzing sales data — includes insights on sales trends, profitability, discount analysis, top/bottom products, and comparative performance across different periods.
-![Full Dashboard Preview](Dashboard Screenshot.png)
+
+![Full Dashboard Preview](https://github.com/manasa-bajaru/ElectroHub-Sales-Analysis/blob/main/Dashboard%20Screenshot.png)
+
 ## 📊 Dashboard Highlights
 
 Data Model: Built using 3 Dimension Tables (Customer, Product, Promotion) and 1 Fact Table.
