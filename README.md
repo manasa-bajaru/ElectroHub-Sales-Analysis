@@ -9,7 +9,7 @@ This repository contains a fully interactive Power BI dashboard that provides in
 
 A Power BI dashboard project analyzing sales data — includes insights on sales trends, profitability, discount analysis, top/bottom products, and comparative performance across different periods.
 
-![Full Dashboard Preview](https://github.com/manasa-bajaru/ElectroHub-Sales-Analysis/blob/main/Dashboard%20Screenshot.png)
+![Dashboard Preview](https://github.com/manasa-bajaru/ElectroHub-Sales-Analysis/blob/main/Dashboard%20Screenshot.png)
 
 ## 📊 Dashboard Highlights
 
@@ -41,7 +41,7 @@ Order-level Insights: Detailed table showing sales, profit, discount, and units 
 
 # 📂 Power BI Project File
 
-(Add your PBIX file link here if uploaded to GitHub or Drive)
+![file link](https://github.com/manasa-bajaru/ElectroHub-Sales-Analysis/blob/main/PowerBI%20File.pbix)
 
 # 📑 Dataset Used
 
