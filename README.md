@@ -47,19 +47,24 @@ Order-level Insights: Detailed table showing sales, profit, discount, and units 
 
 # ❓ Questions & Answers
 
-Q. What are the top-performing products?
+### Q. What are the top-performing products?
+
 Apple iPhone 14, MacBook Air, and Sony Bravia TV are among the best sellers by both sales and profit.
 
-Q. Which products are underperforming?
+### Q. Which products are underperforming?
+
 Items like Tupperware Lunch Box, Nivea Body Lotion, and Colgate Toothpaste appear in the bottom categories.
 
-Q. How do sales and profit relate?
+### Q. How do sales and profit relate?
+
 A strong positive correlation — higher sales usually translate to higher profits, though discounts affect margins.
 
-Q. What is the average discount pattern?
+### Q. What is the average discount pattern?
+
 Weekend Flash Sales and Clearance Sales offer the highest average discounts compared to other promotions.
 
-Q. Can we compare two different sales periods?
+### Q. Can we compare two different sales periods?
+
 Yes ✅ -- the dashboard allows side-by-side comparison of Net Sales, Profit, and Quantity for any two custom date ranges.
 
 # ⚙️ Project Workflow / Process
